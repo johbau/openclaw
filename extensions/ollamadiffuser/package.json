@@ -1,0 +1,12 @@
+{
+  "name": "@openclaw/ollamadiffuser-provider",
+  "version": "2026.4.15",
+  "private": true,
+  "description": "OpenClaw ollamadiffuser provider plugin — local AI image generation",
+  "type": "module",
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
